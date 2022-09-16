@@ -1,7 +1,7 @@
 # MEYER CONSULTING - WITH A REAL PASSION FOR TEACHING AND DEVELOPING
 
 <p align="center">
-    <img src="images/Logo.png" alt="drawing" width="200"/>
+    <img src="images/Logo_White.png" alt="Meyer Consulting Logo" width="300"/>
 </p>
 
 ## 👨‍💻 ABOUT ME
